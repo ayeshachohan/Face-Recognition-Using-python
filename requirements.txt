@@ -1,0 +1,8 @@
+numpy
+opencv-python==4.5.3.56
+numpy
+opencv-python
+opencv-contrib-python
+pip show tensorflow
+pip install scikit-learn
+
